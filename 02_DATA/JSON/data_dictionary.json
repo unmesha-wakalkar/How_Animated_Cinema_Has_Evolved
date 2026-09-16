@@ -1,0 +1,488 @@
+{
+  "fields": [
+    {
+      "field": "Movie_ID",
+      "dtype": "int64",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "field": "TMDB_ID",
+      "dtype": "int64",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "922079",
+        "922018",
+        "922081"
+      ]
+    },
+    {
+      "field": "IMDb_ID",
+      "dtype": "object",
+      "missing": 6908,
+      "non_null": 18482,
+      "examples": [
+        "tt27119262",
+        "tt14495706",
+        "tt12592084"
+      ]
+    },
+    {
+      "field": "Movie_Name",
+      "dtype": "object",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "La Nageuse",
+        "Le Fumeur",
+        "Le Steeple-chase"
+      ]
+    },
+    {
+      "field": "Original_Title",
+      "dtype": "object",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "La Nageuse",
+        "Le Fumeur",
+        "Le Steeple-chase"
+      ]
+    },
+    {
+      "field": "Release_Year",
+      "dtype": "float64",
+      "missing": 781,
+      "non_null": 24609,
+      "examples": [
+        "1878.0",
+        "1878.0",
+        "1878.0"
+      ]
+    },
+    {
+      "field": "Release_Date",
+      "dtype": "object",
+      "missing": 781,
+      "non_null": 24609,
+      "examples": [
+        "1878-05-07",
+        "1878-05-07",
+        "1878-05-07"
+      ]
+    },
+    {
+      "field": "Studio",
+      "dtype": "object",
+      "missing": 6849,
+      "non_null": 18541,
+      "examples": [
+        "Birt Acres",
+        "Edison Manufacturing Company",
+        "Vitagraph Company of America"
+      ]
+    },
+    {
+      "field": "All_Production_Companies",
+      "dtype": "object",
+      "missing": 6504,
+      "non_null": 18886,
+      "examples": [
+        "Birt Acres",
+        "Edison Studios",
+        "Vitagraph Company of America"
+      ]
+    },
+    {
+      "field": "Director",
+      "dtype": "object",
+      "missing": 2423,
+      "non_null": 22967,
+      "examples": [
+        "Émile Reynaud",
+        "Émile Reynaud",
+        "Émile Reynaud"
+      ]
+    },
+    {
+      "field": "Country_Origin",
+      "dtype": "object",
+      "missing": 160,
+      "non_null": 25230,
+      "examples": [
+        "France",
+        "France",
+        "France"
+      ]
+    },
+    {
+      "field": "Original_Language",
+      "dtype": "object",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "xx",
+        "en",
+        "xx"
+      ]
+    },
+    {
+      "field": "Spoken_Languages",
+      "dtype": "object",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "zxx",
+        "zxx",
+        "zxx"
+      ]
+    },
+    {
+      "field": "Animation_Style",
+      "dtype": "object",
+      "missing": 391,
+      "non_null": 24999,
+      "examples": [
+        "2D Traditional",
+        "2D Traditional",
+        "2D Traditional"
+      ]
+    },
+    {
+      "field": "Genre",
+      "dtype": "object",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "Animation",
+        "Animation",
+        "Animation"
+      ]
+    },
+    {
+      "field": "Theme",
+      "dtype": "object",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "General Animation",
+        "General Animation",
+        "General Animation"
+      ]
+    },
+    {
+      "field": "Overview",
+      "dtype": "object",
+      "missing": 2698,
+      "non_null": 22692,
+      "examples": [
+        "Praxinoscope animation of a swimmer.  Series 2, number 8.",
+        "Praxinoscope animation of a man sitting backwards in a char smoking a cigar, while a dog jumps up at him.  Series 3, number 5.",
+        "Praxinoscope animation of an equestrian riding.  Series 3, number 8."
+      ]
+    },
+    {
+      "field": "Movie_Length_Minutes",
+      "dtype": "float64",
+      "missing": 349,
+      "non_null": 25041,
+      "examples": [
+        "15.0",
+        "10.0",
+        "5.0"
+      ]
+    },
+    {
+      "field": "TMDB_Rating",
+      "dtype": "float64",
+      "missing": 9272,
+      "non_null": 16118,
+      "examples": [
+        "3.75",
+        "4.25",
+        "4.25"
+      ]
+    },
+    {
+      "field": "TMDB_Vote_Count",
+      "dtype": "float64",
+      "missing": 9263,
+      "non_null": 16127,
+      "examples": [
+        "4.0",
+        "4.0",
+        "4.0"
+      ]
+    },
+    {
+      "field": "TMDB_Popularity",
+      "dtype": "float64",
+      "missing": 22,
+      "non_null": 25368,
+      "examples": [
+        "0.961",
+        "0.711",
+        "0.711"
+      ]
+    },
+    {
+      "field": "Budget_Million_USD",
+      "dtype": "float64",
+      "missing": 23932,
+      "non_null": 1458,
+      "examples": [
+        "0.0",
+        "0.005",
+        "0.0"
+      ]
+    },
+    {
+      "field": "Box_Office_Million_USD",
+      "dtype": "float64",
+      "missing": 23748,
+      "non_null": 1642,
+      "examples": [
+        "0.0",
+        "0.001",
+        "0.0"
+      ]
+    },
+    {
+      "field": "MPAA_Rating",
+      "dtype": "object",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "NR",
+        "NR",
+        "NR"
+      ]
+    },
+    {
+      "field": "Target_Audience",
+      "dtype": "object",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "Family/All Ages",
+        "Family/All Ages",
+        "Family/All Ages"
+      ]
+    },
+    {
+      "field": "Voice_Cast",
+      "dtype": "object",
+      "missing": 9191,
+      "non_null": 16199,
+      "examples": [
+        "Félix Galipaux",
+        "J. Stuart Blackton",
+        "J. Stuart Blackton"
+      ]
+    },
+    {
+      "field": "Live_Action_Remake",
+      "dtype": "object",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "No",
+        "No",
+        "No"
+      ]
+    },
+    {
+      "field": "Belongs_To_Collection",
+      "dtype": "object",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "field": "Collection_ID",
+      "dtype": "float64",
+      "missing": 22206,
+      "non_null": 3184,
+      "examples": [
+        "603675.0",
+        "603675.0",
+        "603675.0"
+      ]
+    },
+    {
+      "field": "Poster_URL",
+      "dtype": "object",
+      "missing": 3415,
+      "non_null": 21975,
+      "examples": [
+        "https://image.tmdb.org/t/p/w500/e2rtJ3Sm6cjogWdvXbZrHhSiEAK.jpg",
+        "https://image.tmdb.org/t/p/w500/hog5vPusul2jvE9i814QMCo9bSs.jpg",
+        "https://image.tmdb.org/t/p/w500/jCJxWAb6WSnegFS7DRsxQEjAo42.jpg"
+      ]
+    },
+    {
+      "field": "Backdrop_URL",
+      "dtype": "object",
+      "missing": 11131,
+      "non_null": 14259,
+      "examples": [
+        "https://image.tmdb.org/t/p/w500/pfeS2kjgvrjsCaKQ2NCFR22b9aR.jpg",
+        "https://image.tmdb.org/t/p/w500/tXPCJDP3oXJi91TVaxV0CUZdfZc.jpg",
+        "https://image.tmdb.org/t/p/w500/2INlFxxforWCdoMgidtk5GaTNL2.jpg"
+      ]
+    },
+    {
+      "field": "TMDB_URL",
+      "dtype": "object",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "https://www.themoviedb.org/movie/922079",
+        "https://www.themoviedb.org/movie/922018",
+        "https://www.themoviedb.org/movie/922081"
+      ]
+    },
+    {
+      "field": "IMDb_URL",
+      "dtype": "object",
+      "missing": 6908,
+      "non_null": 18482,
+      "examples": [
+        "https://www.imdb.com/title/tt27119262",
+        "https://www.imdb.com/title/tt14495706",
+        "https://www.imdb.com/title/tt12592084"
+      ]
+    },
+    {
+      "field": "Is_Released",
+      "dtype": "bool",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "field": "Is_TV_Compilation",
+      "dtype": "bool",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "field": "Decade",
+      "dtype": "object",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "1870s",
+        "1870s",
+        "1870s"
+      ]
+    },
+    {
+      "field": "Era",
+      "dtype": "object",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "Silent Era",
+        "Silent Era",
+        "Silent Era"
+      ]
+    },
+    {
+      "field": "Popularity_Tier",
+      "dtype": "object",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "Obscure",
+        "Obscure",
+        "Obscure"
+      ]
+    },
+    {
+      "field": "Hidden_Gem",
+      "dtype": "bool",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "field": "Profitability_ROI",
+      "dtype": "float64",
+      "missing": 24658,
+      "non_null": 732,
+      "examples": [
+        "-100.0",
+        "12311.41",
+        "3251.32"
+      ]
+    },
+    {
+      "field": "Is_Adult_Content",
+      "dtype": "bool",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "field": "Runtime_Needs_Verification",
+      "dtype": "bool",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "field": "Is_Future_Release",
+      "dtype": "bool",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "False",
+        "False",
+        "False"
+      ]
+    },
+    {
+      "field": "Data_Quality_Score",
+      "dtype": "int64",
+      "missing": 0,
+      "non_null": 25390,
+      "examples": [
+        "2",
+        "2",
+        "2"
+      ]
+    }
+  ]
+}

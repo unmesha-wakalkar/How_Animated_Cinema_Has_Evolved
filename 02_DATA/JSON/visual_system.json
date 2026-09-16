@@ -1,0 +1,28 @@
+{
+  "design_direction": "cinematic minimalism: Apple-like precision + animation-film wonder, without imitating any brand literally",
+  "palette": {
+    "ink": "#070707",
+    "paper": "#F6F2EA",
+    "warm_amber": "#FFB84D",
+    "signal_blue": "#6EA8FF",
+    "violet": "#9B7CFF",
+    "accent_red": "#FF5E5E"
+  },
+  "type": {
+    "display": "Space Grotesk / Geist-like sans",
+    "body": "Inter / system sans",
+    "mono": "JetBrains Mono / system monospace"
+  },
+  "motion": {
+    "principles": [
+      "draw",
+      "reveal",
+      "morph",
+      "zoom",
+      "parallax",
+      "snap-back"
+    ],
+    "reduced_motion": "disable large transforms and autoplay"
+  },
+  "layout": "single long-form page; sticky navigation; full-bleed cinematic sections; modals/drawers for deep dives"
+}

@@ -1,0 +1,635 @@
+{
+  "dataset_scale": {
+    "all_records": 25390,
+    "usable_released": 24074
+  },
+  "decade_counts": {
+    "1870s": 9,
+    "1880s": 1,
+    "1890s": 6,
+    "1900s": 22,
+    "1910s": 89,
+    "1920s": 339,
+    "1930s": 1007,
+    "1940s": 1211,
+    "1950s": 1142,
+    "1960s": 1082,
+    "1970s": 1220,
+    "1980s": 1921,
+    "1990s": 2164,
+    "2000s": 3469,
+    "2010s": 5779,
+    "2020s": 4562,
+    "Unknown Era": 51
+  },
+  "style_by_decade": {
+    "1870s": {
+      "2D Traditional": 9,
+      "3D CGI": 0,
+      "Motion Capture": 0,
+      "Stop-Motion": 0
+    },
+    "1880s": {
+      "2D Traditional": 1,
+      "3D CGI": 0,
+      "Motion Capture": 0,
+      "Stop-Motion": 0
+    },
+    "1890s": {
+      "2D Traditional": 6,
+      "3D CGI": 0,
+      "Motion Capture": 0,
+      "Stop-Motion": 0
+    },
+    "1900s": {
+      "2D Traditional": 22,
+      "3D CGI": 0,
+      "Motion Capture": 0,
+      "Stop-Motion": 0
+    },
+    "1910s": {
+      "2D Traditional": 88,
+      "3D CGI": 0,
+      "Motion Capture": 0,
+      "Stop-Motion": 1
+    },
+    "1920s": {
+      "2D Traditional": 339,
+      "3D CGI": 0,
+      "Motion Capture": 0,
+      "Stop-Motion": 0
+    },
+    "1930s": {
+      "2D Traditional": 1005,
+      "3D CGI": 0,
+      "Motion Capture": 0,
+      "Stop-Motion": 2
+    },
+    "1940s": {
+      "2D Traditional": 1207,
+      "3D CGI": 0,
+      "Motion Capture": 0,
+      "Stop-Motion": 4
+    },
+    "1950s": {
+      "2D Traditional": 1137,
+      "3D CGI": 0,
+      "Motion Capture": 0,
+      "Stop-Motion": 5
+    },
+    "1960s": {
+      "2D Traditional": 1075,
+      "3D CGI": 0,
+      "Motion Capture": 0,
+      "Stop-Motion": 7
+    },
+    "1970s": {
+      "2D Traditional": 1208,
+      "3D CGI": 0,
+      "Motion Capture": 0,
+      "Stop-Motion": 12
+    },
+    "1980s": {
+      "2D Traditional": 1909,
+      "3D CGI": 0,
+      "Motion Capture": 0,
+      "Stop-Motion": 12
+    },
+    "1990s": {
+      "2D Traditional": 1808,
+      "3D CGI": 348,
+      "Motion Capture": 0,
+      "Stop-Motion": 8
+    },
+    "2000s": {
+      "2D Traditional": 1023,
+      "3D CGI": 2426,
+      "Motion Capture": 2,
+      "Stop-Motion": 18
+    },
+    "2010s": {
+      "2D Traditional": 82,
+      "3D CGI": 5648,
+      "Motion Capture": 2,
+      "Stop-Motion": 47
+    },
+    "2020s": {
+      "2D Traditional": 41,
+      "3D CGI": 4470,
+      "Motion Capture": 3,
+      "Stop-Motion": 48
+    },
+    "Unknown Era": {
+      "2D Traditional": 0,
+      "3D CGI": 2,
+      "Motion Capture": 0,
+      "Stop-Motion": 0
+    }
+  },
+  "top_studios_all": [
+    {
+      "studio": "Walt Disney Productions",
+      "count": 627
+    },
+    {
+      "studio": "Soyuzmultfilm",
+      "count": 464
+    },
+    {
+      "studio": "Warner Bros. Pictures",
+      "count": 361
+    },
+    {
+      "studio": "Toei Animation",
+      "count": 348
+    },
+    {
+      "studio": "ONF | NFB",
+      "count": 297
+    },
+    {
+      "studio": "Walter Lantz Productions",
+      "count": 268
+    },
+    {
+      "studio": "Warner Bros. Cartoons",
+      "count": 257
+    },
+    {
+      "studio": "Studioul Cinematografic Animafilm",
+      "count": 256
+    },
+    {
+      "studio": "Leon Schlesinger Productions",
+      "count": 249
+    },
+    {
+      "studio": "Fleischer Studios",
+      "count": 233
+    },
+    {
+      "studio": "Famous Studios",
+      "count": 222
+    },
+    {
+      "studio": "Warner Bros. Animation",
+      "count": 211
+    },
+    {
+      "studio": "DePatie-Freleng Enterprises",
+      "count": 206
+    },
+    {
+      "studio": "Ekran",
+      "count": 155
+    },
+    {
+      "studio": "MGM Cartoon Studio",
+      "count": 152
+    },
+    {
+      "studio": "SUNRISE",
+      "count": 149
+    },
+    {
+      "studio": "Disney Television Animation",
+      "count": 133
+    },
+    {
+      "studio": "Hanna-Barbera Cartoons",
+      "count": 133
+    },
+    {
+      "studio": "Terrytoons",
+      "count": 120
+    },
+    {
+      "studio": "Pixar",
+      "count": 119
+    },
+    {
+      "studio": "Metro-Goldwyn-Mayer",
+      "count": 118
+    },
+    {
+      "studio": "DreamWorks Animation",
+      "count": 114
+    },
+    {
+      "studio": "Kyivnaukfilm",
+      "count": 107
+    },
+    {
+      "studio": "TMS Entertainment",
+      "count": 94
+    },
+    {
+      "studio": "Production I.G",
+      "count": 92
+    },
+    {
+      "studio": "Studioul cinematografic „Bucureşti\"",
+      "count": 88
+    },
+    {
+      "studio": "Madhouse",
+      "count": 88
+    },
+    {
+      "studio": "Weston Woods Studios",
+      "count": 86
+    },
+    {
+      "studio": "Cartoon Network Studios",
+      "count": 83
+    },
+    {
+      "studio": "Walt Disney Pictures",
+      "count": 82
+    }
+  ],
+  "top_countries": [
+    {
+      "country": "United States of America",
+      "count": 7558
+    },
+    {
+      "country": "Japan",
+      "count": 3908
+    },
+    {
+      "country": "United States",
+      "count": 2874
+    },
+    {
+      "country": "France",
+      "count": 1023
+    },
+    {
+      "country": "Soviet Union",
+      "count": 743
+    },
+    {
+      "country": "United Kingdom",
+      "count": 680
+    },
+    {
+      "country": "Canada",
+      "count": 627
+    },
+    {
+      "country": "Russia",
+      "count": 557
+    },
+    {
+      "country": "Germany",
+      "count": 442
+    },
+    {
+      "country": "China",
+      "count": 421
+    },
+    {
+      "country": "Spain",
+      "count": 402
+    },
+    {
+      "country": "Romania",
+      "count": 354
+    },
+    {
+      "country": "Brazil",
+      "count": 290
+    },
+    {
+      "country": "South Korea",
+      "count": 254
+    },
+    {
+      "country": "Italy",
+      "count": 225
+    },
+    {
+      "country": "Poland",
+      "count": 206
+    },
+    {
+      "country": "Czechoslovakia",
+      "count": 185
+    },
+    {
+      "country": "Australia",
+      "count": 182
+    },
+    {
+      "country": "Portugal",
+      "count": 177
+    },
+    {
+      "country": "Netherlands",
+      "count": 175
+    },
+    {
+      "country": "Mexico",
+      "count": 173
+    },
+    {
+      "country": "Peru",
+      "count": 138
+    },
+    {
+      "country": "Sweden",
+      "count": 132
+    },
+    {
+      "country": "Denmark",
+      "count": 112
+    },
+    {
+      "country": "Argentina",
+      "count": 108
+    },
+    {
+      "country": "Taiwan",
+      "count": 102
+    },
+    {
+      "country": "Hungary",
+      "count": 96
+    },
+    {
+      "country": "India",
+      "count": 93
+    },
+    {
+      "country": "Canada|United States of America",
+      "count": 73
+    },
+    {
+      "country": "Turkey",
+      "count": 72
+    }
+  ],
+  "top_languages": [
+    {
+      "language": "en",
+      "count": 13521
+    },
+    {
+      "language": "ja",
+      "count": 3896
+    },
+    {
+      "language": "fr",
+      "count": 1313
+    },
+    {
+      "language": "ru",
+      "count": 1176
+    },
+    {
+      "language": "es",
+      "count": 904
+    },
+    {
+      "language": "zh",
+      "count": 539
+    },
+    {
+      "language": "de",
+      "count": 474
+    },
+    {
+      "language": "pt",
+      "count": 453
+    },
+    {
+      "language": "ro",
+      "count": 366
+    },
+    {
+      "language": "xx",
+      "count": 309
+    },
+    {
+      "language": "cs",
+      "count": 274
+    },
+    {
+      "language": "ko",
+      "count": 256
+    },
+    {
+      "language": "it",
+      "count": 241
+    },
+    {
+      "language": "pl",
+      "count": 206
+    },
+    {
+      "language": "nl",
+      "count": 159
+    },
+    {
+      "language": "sv",
+      "count": 128
+    },
+    {
+      "language": "uk",
+      "count": 125
+    },
+    {
+      "language": "hu",
+      "count": 97
+    },
+    {
+      "language": "tr",
+      "count": 93
+    },
+    {
+      "language": "da",
+      "count": 92
+    },
+    {
+      "language": "no",
+      "count": 72
+    },
+    {
+      "language": "et",
+      "count": 71
+    },
+    {
+      "language": "hi",
+      "count": 62
+    },
+    {
+      "language": "fi",
+      "count": 46
+    },
+    {
+      "language": "fa",
+      "count": 34
+    },
+    {
+      "language": "sk",
+      "count": 31
+    },
+    {
+      "language": "tl",
+      "count": 30
+    },
+    {
+      "language": "sh",
+      "count": 30
+    },
+    {
+      "language": "lv",
+      "count": 29
+    },
+    {
+      "language": "id",
+      "count": 24
+    }
+  ],
+  "top_genre_strings": [
+    {
+      "genre": "Animation",
+      "count": 9847
+    },
+    {
+      "genre": "Animation, Comedy",
+      "count": 1235
+    },
+    {
+      "genre": "Animation, Family",
+      "count": 864
+    },
+    {
+      "genre": "Animation|Family",
+      "count": 412
+    },
+    {
+      "genre": "Animation, Comedy, Family",
+      "count": 412
+    },
+    {
+      "genre": "Family, Animation",
+      "count": 372
+    },
+    {
+      "genre": "Comedy, Animation",
+      "count": 370
+    },
+    {
+      "genre": "Animation, Drama",
+      "count": 227
+    },
+    {
+      "genre": "Animation, Fantasy",
+      "count": 216
+    },
+    {
+      "genre": "Animation|Comedy",
+      "count": 207
+    },
+    {
+      "genre": "Animation, Documentary",
+      "count": 195
+    },
+    {
+      "genre": "Documentary, Animation",
+      "count": 175
+    },
+    {
+      "genre": "Animation, Music",
+      "count": 166
+    },
+    {
+      "genre": "Animation, Family, Comedy",
+      "count": 150
+    },
+    {
+      "genre": "Animation|Drama",
+      "count": 130
+    },
+    {
+      "genre": "Animation, Science Fiction",
+      "count": 128
+    },
+    {
+      "genre": "Family|Animation",
+      "count": 126
+    },
+    {
+      "genre": "Animation|Science Fiction",
+      "count": 120
+    },
+    {
+      "genre": "Animation|Comedy|Family",
+      "count": 111
+    },
+    {
+      "genre": "Animation, Horror",
+      "count": 111
+    },
+    {
+      "genre": "Animation|Fantasy",
+      "count": 108
+    },
+    {
+      "genre": "Animation|Adventure|Family",
+      "count": 100
+    },
+    {
+      "genre": "Drama, Animation",
+      "count": 96
+    },
+    {
+      "genre": "Documentary|Animation",
+      "count": 95
+    },
+    {
+      "genre": "Animation|Adventure",
+      "count": 89
+    },
+    {
+      "genre": "Animation|Family|Fantasy",
+      "count": 89
+    },
+    {
+      "genre": "Comedy|Animation",
+      "count": 83
+    },
+    {
+      "genre": "Animation, Adventure",
+      "count": 82
+    },
+    {
+      "genre": "Animation|Family|Adventure",
+      "count": 70
+    },
+    {
+      "genre": "Animation, Family, Fantasy",
+      "count": 68
+    }
+  ],
+  "budget_boxoffice": {
+    "budget_count": 1458,
+    "box_office_count": 1642,
+    "both_count": 777,
+    "median_budget_musd": 3.5,
+    "median_boxoffice_musd": 6.905
+  },
+  "reception": {
+    "rating_count": 16118,
+    "median_rating": 6.5,
+    "median_votes": 7.0
+  },
+  "notable_anomalies": [
+    "Commercial fields have sparse coverage relative to the full catalog; business analysis must use an explicit complete-case subset.",
+    "Runtime has extreme values and a verification flag; use Movie_Length_Minutes only after applying a sensible plausibility filter.",
+    "Genre and Target_Audience contain mixed separators/composite labels; normalized list fields were added for filtering.",
+    "The 2020s bucket includes future releases; exclude Is_Future_Release from historical charts unless explicitly showing planned releases."
+  ]
+}

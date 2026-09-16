@@ -1,0 +1,106 @@
+[
+  {
+    "year": 1832,
+    "title": "Phenakistoscope",
+    "type": "pre-cinema",
+    "description": "Early optical toy associated with the perception of sequential moving images.",
+    "source": "BFI",
+    "url": "https://old.bfi.org.uk/sightandsound/feature/49303"
+  },
+  {
+    "year": 1892,
+    "title": "Pauvre Pierrot",
+    "type": "early animation",
+    "description": "Émile Reynaud presents a 500-frame animated work in Paris.",
+    "source": "BFI",
+    "url": "https://old.bfi.org.uk/sightandsound/feature/49303"
+  },
+  {
+    "year": 1906,
+    "title": "Humorous Phases of Funny Faces",
+    "type": "drawn animation",
+    "description": "J. Stuart Blackton uses chalk animation in a landmark early cartoon.",
+    "source": "BFI",
+    "url": "https://old.bfi.org.uk/sightandsound/feature/49303"
+  },
+  {
+    "year": 1908,
+    "title": "Fantasmagorie",
+    "type": "drawn animation",
+    "description": "Émile Cohl makes a landmark hand-drawn animation on paper/film.",
+    "source": "BFI",
+    "url": "https://old.bfi.org.uk/sightandsound/feature/49303"
+  },
+  {
+    "year": 1917,
+    "title": "El Apóstol",
+    "type": "feature animation",
+    "description": "BFI timeline records the first animated feature as a 70-minute Argentine cut-out satire, now lost.",
+    "source": "BFI",
+    "url": "https://old.bfi.org.uk/sightandsound/feature/49303"
+  },
+  {
+    "year": 1926,
+    "title": "The Adventures of Prince Achmed",
+    "type": "feature animation",
+    "description": "Lotte Reiniger creates a feature-length silhouette animation.",
+    "source": "BFI",
+    "url": "https://old.bfi.org.uk/sightandsound/feature/49303"
+  },
+  {
+    "year": 1928,
+    "title": "Steamboat Willie",
+    "type": "sound animation",
+    "description": "Disney releases a synchronized sound cartoon featuring Mickey Mouse.",
+    "source": "BFI",
+    "url": "https://old.bfi.org.uk/sightandsound/feature/49303"
+  },
+  {
+    "year": 1932,
+    "title": "Flowers and Trees",
+    "type": "colour animation",
+    "description": "Disney releases a three-colour Technicolor cartoon.",
+    "source": "BFI",
+    "url": "https://old.bfi.org.uk/sightandsound/feature/49303"
+  },
+  {
+    "year": 1982,
+    "title": "Genesis Effect sequence",
+    "type": "computer animation",
+    "description": "Pixar history records a completely computer-animated feature-film sequence from Star Trek II.",
+    "source": "Pixar",
+    "url": "https://www.pixar.com/our-story"
+  },
+  {
+    "year": 1986,
+    "title": "Pixar established",
+    "type": "industry",
+    "description": "The Lucasfilm Computer Division is purchased and established as Pixar; Pixar and Disney collaborate on CAPS.",
+    "source": "Pixar",
+    "url": "https://www.pixar.com/our-story"
+  },
+  {
+    "year": 1988,
+    "title": "Tin Toy",
+    "type": "computer animation",
+    "description": "Pixar’s Tin Toy becomes the first computer animated film to receive an Academy Award.",
+    "source": "Pixar",
+    "url": "https://www.pixar.com/our-story"
+  },
+  {
+    "year": 1995,
+    "title": "Toy Story",
+    "type": "CGI feature",
+    "description": "Released as the first computer-animated feature film, according to Pixar and the Academy.",
+    "source": "Pixar / Academy",
+    "url": "https://www.pixar.com/our-story"
+  },
+  {
+    "year": 1999,
+    "title": "Toy Story 2",
+    "type": "digital production",
+    "description": "Pixar states that Toy Story 2 was the first film entirely created, mastered and exhibited digitally.",
+    "source": "Pixar",
+    "url": "https://www.pixar.com/our-story"
+  }
+]

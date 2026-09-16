@@ -1,0 +1,39 @@
+{
+  "global": "scroll-driven narrative with persistent progress indicator and jump navigation",
+  "filters": [
+    "era",
+    "decade",
+    "animation style",
+    "country",
+    "studio",
+    "target audience",
+    "rating range",
+    "released only"
+  ],
+  "film_modal": [
+    "hero backdrop",
+    "poster",
+    "year",
+    "studio",
+    "animation style",
+    "genre",
+    "theme",
+    "runtime",
+    "rating",
+    "votes",
+    "links to TMDB/IMDb",
+    "source note"
+  ],
+  "comparison": "allow selecting 2–3 films/studios to compare on a modal overlay",
+  "timeline": "horizontal/vertical responsive timeline with decade zoom and landmark event markers",
+  "business": "budget vs box office scatter only on complete-case business subset; disclose coverage",
+  "search": "debounced client-side search over title/original title/director/studio",
+  "keyboard": "ESC close modal, / focus search, arrows navigate timeline, Enter open selected record",
+  "accessibility": [
+    "visible focus states",
+    "semantic buttons",
+    "aria labels",
+    "reduced motion support",
+    "color-independent encodings"
+  ]
+}

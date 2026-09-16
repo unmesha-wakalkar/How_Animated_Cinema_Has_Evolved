@@ -1,0 +1,212 @@
+[
+  {
+    "path": "README.md",
+    "sha256": "04f7a6db4b3bd4975a366692d9b8e07d40e0ed4782ce4f6af0ea8a82e6287684",
+    "bytes": 961
+  },
+  {
+    "path": "04_MEDIA/source_manifest.json",
+    "sha256": "cc2e7f101749da1f6e344f1ae6bd13b332ad1b2f2327eba58ffbf526106b3a6f",
+    "bytes": 1956
+  },
+  {
+    "path": "04_MEDIA/video_sources.json",
+    "sha256": "c17b7ccda5d38c2cfeee8340a69ae1bec933c4e9bb13479fbf7ca928948c3e7c",
+    "bytes": 940
+  },
+  {
+    "path": "04_MEDIA/MEDIA_SOURCE_GUIDE.md",
+    "sha256": "d614c4f99e13ee482ed0991f1a5c6309acd69de175de622df1284aceb0f576da",
+    "bytes": 371
+  },
+  {
+    "path": "05_APP_SPEC/DATA_CONTRACT.md",
+    "sha256": "6836c80963876a083dff0239c45c5c0dac1de13082f124087b47c484915060b6",
+    "bytes": 324
+  },
+  {
+    "path": "05_APP_SPEC/COMPONENT_TREE.md",
+    "sha256": "d843cbcac9bbff0eead41632623cdfacc1fdf3222bca63892ff767c5d3d56e93",
+    "bytes": 311
+  },
+  {
+    "path": "03_PROMPTS/01_DATA_IMPORT_PROMPT.md",
+    "sha256": "e848c71c674179b3b8ecd936f9f15e6db87e22d86758e8057ebd60c28ed68826",
+    "bytes": 368
+  },
+  {
+    "path": "03_PROMPTS/03_ACCESSIBILITY_PERFORMANCE_PROMPT.md",
+    "sha256": "261863e840cfed1145ab200660991ec14645a8b3af1e8c74d765a4e46a87df4b",
+    "bytes": 281
+  },
+  {
+    "path": "03_PROMPTS/02_VISUAL_POLISH_PROMPT.md",
+    "sha256": "f8430d7422945ebb9e5a684021542f1649dcb8a842eed5fa1bdb918e72ef216b",
+    "bytes": 302
+  },
+  {
+    "path": "03_PROMPTS/00_MASTER_GOOGLE_AI_STUDIO_BUILD_PROMPT.md",
+    "sha256": "3533662fb98652ea7d708bbddc3ff1ea295a0ab1c80db121aeb3c9d8d0858a94",
+    "bytes": 4874
+  },
+  {
+    "path": "01_DOCS/06_STORY_DIRECTIONS.md",
+    "sha256": "8bd7a024cae5b532bc48336bfa4b6fa361fb07677f7725a461b558c5d733dc10",
+    "bytes": 1061
+  },
+  {
+    "path": "01_DOCS/03_DATA_AUDIT.md",
+    "sha256": "87ad8c325f37d248a801a7807b82898d0729570258c67a019370acbdbfe26bc1",
+    "bytes": 1017
+  },
+  {
+    "path": "01_DOCS/13_TECHNICAL_ARCHITECTURE.md",
+    "sha256": "113982c9fcf11009fe588b57bc7e7d7a5a8f966a9d674011084953f32f1eded3",
+    "bytes": 632
+  },
+  {
+    "path": "01_DOCS/07_NARRATIVE_SEQUENCE.md",
+    "sha256": "4f1f894f60dea2fa936eb28575faacd8b423b78ffc21a13b38945ca61314fe87",
+    "bytes": 950
+  },
+  {
+    "path": "01_DOCS/04_DATA_CLEANING_RULES.md",
+    "sha256": "05fdbf37e243f8e58de7a71e7db55486a6e6d8ecc96cf9ec41e7d65432a4001d",
+    "bytes": 884
+  },
+  {
+    "path": "01_DOCS/01_PROJECT_BRIEF.md",
+    "sha256": "82a5acd2e9dccd3ce1642653370663c660df9406640dd1cc40297489effa019c",
+    "bytes": 773
+  },
+  {
+    "path": "01_DOCS/08_INFORMATION_ARCHITECTURE.md",
+    "sha256": "7b789c8ff4dd9f138642b6bd2c8fd0c333960d44cc07ba52a28808008892cf5a",
+    "bytes": 587
+  },
+  {
+    "path": "01_DOCS/09_INTERACTION_SPEC.md",
+    "sha256": "429b7f1e7942bd6a883e7be148d36dbf5b3f837288fe744861ec6ba8455a5d6f",
+    "bytes": 663
+  },
+  {
+    "path": "01_DOCS/05_DATA_DICTIONARY.md",
+    "sha256": "9f41d3764b4b20be152a60d8aeb2efa5eac20682e2df3fc3885e22a0edc49182",
+    "bytes": 827
+  },
+  {
+    "path": "01_DOCS/11_MOTION_SYSTEM.md",
+    "sha256": "2be78266e955dd1b115640078095fd43f78e5c01022c7ce943fffda66b1fa401",
+    "bytes": 516
+  },
+  {
+    "path": "01_DOCS/12_MEDIA_AND_CREDITS.md",
+    "sha256": "91e9ed9f5bad85005daa34c752d7d66f866fb892d00e64df975d3060ac0e8528",
+    "bytes": 747
+  },
+  {
+    "path": "01_DOCS/02_RESEARCH_PLAN.md",
+    "sha256": "69afaa3f9b92cba01ac7ae62369b953150df1442cad4b4a577e572c1ccc782b6",
+    "bytes": 731
+  },
+  {
+    "path": "01_DOCS/14_TESTING_CHECKLIST.md",
+    "sha256": "33fc28a552fb584b8d71379ff32111950dc0d203e6ab683f21a7b78895ab18e0",
+    "bytes": 657
+  },
+  {
+    "path": "01_DOCS/10_VISUAL_SYSTEM.md",
+    "sha256": "30e2050379041b85d65eef8c56ff871fbbb3dde6f6baa82fde11f27f96591676",
+    "bytes": 652
+  },
+  {
+    "path": "02_DATA/CSV/RAW_animation_movies_enriched_1878_2029.csv",
+    "sha256": "a239069be478d272868a0b1a50733d01208fff3579bd5729ac9006cbbbad47da",
+    "bytes": 19764080
+  },
+  {
+    "path": "02_DATA/CSV/films_master_cleaned.csv",
+    "sha256": "842ffaead0c9e1542cd88c27c6984f9195456f2587c24341ef90cb35edb5dd97",
+    "bytes": 22281492
+  },
+  {
+    "path": "02_DATA/CSV/RAW_PixarMovies.csv",
+    "sha256": "97d8a8fcf9d631721b84fdc09cc43c25a18debce8e366752a53867c73f595da5",
+    "bytes": 1437
+  },
+  {
+    "path": "02_DATA/CSV/RAW_Animation_Movies.csv",
+    "sha256": "3047fa0f3e5537795879468745c443892c1582b52322374579a343d365b8144b",
+    "bytes": 23493139
+  },
+  {
+    "path": "02_DATA/CSV/RAW_TopAnimatedImDb.csv",
+    "sha256": "ba7f180022d58f780a4b4e6cfb21615564117b44019e60a5c796f9e3c76b0ca3",
+    "bytes": 21510
+  },
+  {
+    "path": "02_DATA/CSV/RAW_movies.csv",
+    "sha256": "9a64a071347c2d85d6305569a7e71da9522b65e7701a55a22b3dd9ca9d853181",
+    "bytes": 6333
+  },
+  {
+    "path": "02_DATA/JSON/editorial_film_selection.json",
+    "sha256": "6b234ae0fe2d1f65ac142596c14ca503c0ee697aeb70217d6e1d7c1deea05c00",
+    "bytes": 55488
+  },
+  {
+    "path": "02_DATA/JSON/story_metrics.json",
+    "sha256": "77075eb00c00aa1be72c6e0d27bfbb82a8d3cbb29de99ec21d112e9d48762919",
+    "bytes": 11199
+  },
+  {
+    "path": "02_DATA/JSON/source_manifest.json",
+    "sha256": "cc2e7f101749da1f6e344f1ae6bd13b332ad1b2f2327eba58ffbf526106b3a6f",
+    "bytes": 1956
+  },
+  {
+    "path": "02_DATA/JSON/video_sources.json",
+    "sha256": "c17b7ccda5d38c2cfeee8340a69ae1bec933c4e9bb13479fbf7ca928948c3e7c",
+    "bytes": 940
+  },
+  {
+    "path": "02_DATA/JSON/visual_system.json",
+    "sha256": "60c4f382f1b38607345025195e29cc2295b21031cdd1760072f1c762ebc2f9b4",
+    "bytes": 782
+  },
+  {
+    "path": "02_DATA/JSON/supporting_datasets.json",
+    "sha256": "83228b21604ac4e71ad2793e5b43e26e000267ad5b4cdcfd27d8525beea8f949",
+    "bytes": 3359
+  },
+  {
+    "path": "02_DATA/JSON/facets.json",
+    "sha256": "dd7decdbf47fd33a15ce9cd37b9ae89bb950ef7141d3b21cf860c71997af4dff",
+    "bytes": 19659
+  },
+  {
+    "path": "02_DATA/JSON/data_audit.json",
+    "sha256": "33e02fb580800ffc1feac31ab8edc6a85cded2dc1dfa42e2e104684ae5f1b12a",
+    "bytes": 2084
+  },
+  {
+    "path": "02_DATA/JSON/films_master.json",
+    "sha256": "9790bf35786f6c3e79b4b946b4e8064469e8524186ada45ce1e324ac50ad3a83",
+    "bytes": 55158547
+  },
+  {
+    "path": "02_DATA/JSON/interaction_spec.json",
+    "sha256": "8e7860159a5ba264454efca6fde6aed99732e7b485b402dedf9dc38f811547b2",
+    "bytes": 1114
+  },
+  {
+    "path": "02_DATA/JSON/data_dictionary.json",
+    "sha256": "ddddc29cf7dcdb1dbe2a209b757feccb37fdc89d241a6e6924df3a41329894d2",
+    "bytes": 9630
+  },
+  {
+    "path": "02_DATA/JSON/historical_timeline.json",
+    "sha256": "9e1c5c1573b490a96afa300cb5dacecb5b85d05b9a8e8ae7ac0b6a732304e186",
+    "bytes": 3541
+  }
+]

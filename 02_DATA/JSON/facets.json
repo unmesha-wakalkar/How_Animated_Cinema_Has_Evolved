@@ -1,0 +1,1276 @@
+{
+  "Decade": [
+    {
+      "value": "2010s",
+      "count": 5867
+    },
+    {
+      "value": "2020s",
+      "count": 4859
+    },
+    {
+      "value": "2000s",
+      "count": 3540
+    },
+    {
+      "value": "1990s",
+      "count": 2204
+    },
+    {
+      "value": "1980s",
+      "count": 1946
+    },
+    {
+      "value": "1970s",
+      "count": 1227
+    },
+    {
+      "value": "1940s",
+      "count": 1211
+    },
+    {
+      "value": "1950s",
+      "count": 1142
+    },
+    {
+      "value": "1960s",
+      "count": 1084
+    },
+    {
+      "value": "1930s",
+      "count": 1007
+    },
+    {
+      "value": "Unknown Era",
+      "count": 835
+    },
+    {
+      "value": "1920s",
+      "count": 341
+    },
+    {
+      "value": "1910s",
+      "count": 89
+    },
+    {
+      "value": "1900s",
+      "count": 22
+    },
+    {
+      "value": "1870s",
+      "count": 9
+    },
+    {
+      "value": "1890s",
+      "count": 6
+    },
+    {
+      "value": "1880s",
+      "count": 1
+    }
+  ],
+  "Era": [
+    {
+      "value": "Modern",
+      "count": 5867
+    },
+    {
+      "value": "Streaming Era",
+      "count": 4859
+    },
+    {
+      "value": "Early Digital",
+      "count": 3540
+    },
+    {
+      "value": "Dark Age",
+      "count": 3426
+    },
+    {
+      "value": "Renaissance",
+      "count": 2436
+    },
+    {
+      "value": "Golden Age",
+      "count": 2305
+    },
+    {
+      "value": "Post-War Era",
+      "count": 1741
+    },
+    {
+      "value": "Unknown Era",
+      "count": 835
+    },
+    {
+      "value": "Silent Era",
+      "count": 381
+    }
+  ],
+  "Animation_Style": [
+    {
+      "value": "3D CGI",
+      "count": 13811
+    },
+    {
+      "value": "2D Traditional",
+      "count": 10996
+    },
+    {
+      "value": "Stop-Motion",
+      "count": 185
+    },
+    {
+      "value": "Motion Capture",
+      "count": 7
+    }
+  ],
+  "Studio": [
+    {
+      "value": "Walt Disney Productions",
+      "count": 627
+    },
+    {
+      "value": "Soyuzmultfilm",
+      "count": 464
+    },
+    {
+      "value": "Warner Bros. Pictures",
+      "count": 361
+    },
+    {
+      "value": "Toei Animation",
+      "count": 348
+    },
+    {
+      "value": "ONF | NFB",
+      "count": 297
+    },
+    {
+      "value": "Walter Lantz Productions",
+      "count": 268
+    },
+    {
+      "value": "Warner Bros. Cartoons",
+      "count": 257
+    },
+    {
+      "value": "Studioul Cinematografic Animafilm",
+      "count": 256
+    },
+    {
+      "value": "Leon Schlesinger Productions",
+      "count": 249
+    },
+    {
+      "value": "Fleischer Studios",
+      "count": 233
+    },
+    {
+      "value": "Famous Studios",
+      "count": 222
+    },
+    {
+      "value": "Warner Bros. Animation",
+      "count": 211
+    },
+    {
+      "value": "DePatie-Freleng Enterprises",
+      "count": 206
+    },
+    {
+      "value": "Ekran",
+      "count": 155
+    },
+    {
+      "value": "MGM Cartoon Studio",
+      "count": 152
+    },
+    {
+      "value": "SUNRISE",
+      "count": 149
+    },
+    {
+      "value": "Disney Television Animation",
+      "count": 133
+    },
+    {
+      "value": "Hanna-Barbera Cartoons",
+      "count": 133
+    },
+    {
+      "value": "Terrytoons",
+      "count": 120
+    },
+    {
+      "value": "Pixar",
+      "count": 119
+    },
+    {
+      "value": "Metro-Goldwyn-Mayer",
+      "count": 118
+    },
+    {
+      "value": "DreamWorks Animation",
+      "count": 114
+    },
+    {
+      "value": "Kyivnaukfilm",
+      "count": 107
+    },
+    {
+      "value": "TMS Entertainment",
+      "count": 94
+    },
+    {
+      "value": "Production I.G",
+      "count": 92
+    },
+    {
+      "value": "Studioul cinematografic „Bucureşti\"",
+      "count": 88
+    },
+    {
+      "value": "Madhouse",
+      "count": 88
+    },
+    {
+      "value": "Weston Woods Studios",
+      "count": 86
+    },
+    {
+      "value": "Cartoon Network Studios",
+      "count": 83
+    },
+    {
+      "value": "Walt Disney Pictures",
+      "count": 82
+    },
+    {
+      "value": "Shin-Ei Animation",
+      "count": 80
+    },
+    {
+      "value": "Columbia Pictures",
+      "count": 68
+    },
+    {
+      "value": "TOHO",
+      "count": 64
+    },
+    {
+      "value": "WOWNow Entertainment",
+      "count": 62
+    },
+    {
+      "value": "Paramount Cartoon Studios",
+      "count": 61
+    },
+    {
+      "value": "Nickelodeon Animation Studio",
+      "count": 60
+    },
+    {
+      "value": "Walt Disney Animation Studios",
+      "count": 58
+    },
+    {
+      "value": "ESMA",
+      "count": 58
+    },
+    {
+      "value": "United Productions of America",
+      "count": 56
+    },
+    {
+      "value": "Folimage",
+      "count": 56
+    },
+    {
+      "value": "Pierrot",
+      "count": 56
+    },
+    {
+      "value": "Tokyo University of the Arts",
+      "count": 55
+    },
+    {
+      "value": "Aardman",
+      "count": 54
+    },
+    {
+      "value": "Paramount Pictures",
+      "count": 53
+    },
+    {
+      "value": "Illumination",
+      "count": 53
+    },
+    {
+      "value": "Van Beuren Studios",
+      "count": 53
+    },
+    {
+      "value": "Studio Ghibli",
+      "count": 50
+    },
+    {
+      "value": "Big Idea Productions",
+      "count": 47
+    },
+    {
+      "value": "Burbank Animation Studios",
+      "count": 46
+    },
+    {
+      "value": "Bandai Visual",
+      "count": 44
+    },
+    {
+      "value": "Shanghai Animation Film Studio",
+      "count": 40
+    },
+    {
+      "value": "Mattel",
+      "count": 39
+    },
+    {
+      "value": "Pannónia Filmstúdió",
+      "count": 39
+    },
+    {
+      "value": "OLM",
+      "count": 39
+    },
+    {
+      "value": "CalArts",
+      "count": 39
+    },
+    {
+      "value": "Gobelins",
+      "count": 38
+    },
+    {
+      "value": "Rankin/Bass Productions",
+      "count": 38
+    },
+    {
+      "value": "J.C.STAFF",
+      "count": 38
+    },
+    {
+      "value": "A-1 Pictures",
+      "count": 36
+    },
+    {
+      "value": "Zagreb Film",
+      "count": 36
+    },
+    {
+      "value": "Universal Pictures",
+      "count": 36
+    },
+    {
+      "value": "CTB Film Company",
+      "count": 35
+    },
+    {
+      "value": "Sony Pictures Animation",
+      "count": 35
+    },
+    {
+      "value": "Harman-Ising Productions",
+      "count": 34
+    },
+    {
+      "value": "Krátký film Praha – Studio Bratři v triku",
+      "count": 33
+    },
+    {
+      "value": "Anime International Company",
+      "count": 32
+    },
+    {
+      "value": "Nippon Animation",
+      "count": 32
+    },
+    {
+      "value": "DiC Entertainment",
+      "count": 32
+    },
+    {
+      "value": "NEST Family Entertainment",
+      "count": 32
+    },
+    {
+      "value": "Tezuka Productions",
+      "count": 32
+    },
+    {
+      "value": "ufotable",
+      "count": 31
+    },
+    {
+      "value": "Aniplex",
+      "count": 30
+    },
+    {
+      "value": "Lee Mendelson Film Productions",
+      "count": 30
+    },
+    {
+      "value": "STUDIO4℃",
+      "count": 30
+    },
+    {
+      "value": "HiT Entertainment",
+      "count": 30
+    },
+    {
+      "value": "DEFA-Studio für Trickfilme",
+      "count": 30
+    },
+    {
+      "value": "Nelvana",
+      "count": 28
+    },
+    {
+      "value": "Klasky-Csupo",
+      "count": 28
+    },
+    {
+      "value": "Studio Miniatur Filmowych",
+      "count": 27
+    },
+    {
+      "value": "Kyoto Animation",
+      "count": 27
+    },
+    {
+      "value": "Studio Deen",
+      "count": 27
+    },
+    {
+      "value": "khara",
+      "count": 26
+    },
+    {
+      "value": "Mushi Production",
+      "count": 26
+    },
+    {
+      "value": "J.R. Bray Studios",
+      "count": 26
+    },
+    {
+      "value": "Mauricio de Sousa Produções",
+      "count": 26
+    },
+    {
+      "value": "Lionsgate",
+      "count": 26
+    },
+    {
+      "value": "Walt Disney Studio",
+      "count": 25
+    },
+    {
+      "value": "BBC",
+      "count": 25
+    },
+    {
+      "value": "Royal College of Art",
+      "count": 25
+    },
+    {
+      "value": "Group TAC",
+      "count": 25
+    },
+    {
+      "value": "Tallinnfilm",
+      "count": 24
+    },
+    {
+      "value": "Krátký film Praha – Studio kresleného a loutkového filmu Praha",
+      "count": 24
+    },
+    {
+      "value": "Halas and Batchelor Cartoon Films",
+      "count": 24
+    },
+    {
+      "value": "Tokyo Movie Shinsha",
+      "count": 23
+    },
+    {
+      "value": "Ellipsanime Productions",
+      "count": 23
+    },
+    {
+      "value": "Magic Bus",
+      "count": 23
+    },
+    {
+      "value": "DisneyToon Studios",
+      "count": 23
+    },
+    {
+      "value": "CoMix Wave Films",
+      "count": 22
+    },
+    {
+      "value": "Nippon Television Network Corporation",
+      "count": 21
+    },
+    {
+      "value": "Nickelodeon Productions",
+      "count": 21
+    }
+  ],
+  "Country_Origin": [
+    {
+      "value": "United States of America",
+      "count": 7558
+    },
+    {
+      "value": "Japan",
+      "count": 3908
+    },
+    {
+      "value": "United States",
+      "count": 2874
+    },
+    {
+      "value": "France",
+      "count": 1023
+    },
+    {
+      "value": "Soviet Union",
+      "count": 743
+    },
+    {
+      "value": "United Kingdom",
+      "count": 680
+    },
+    {
+      "value": "Canada",
+      "count": 627
+    },
+    {
+      "value": "Russia",
+      "count": 557
+    },
+    {
+      "value": "Germany",
+      "count": 442
+    },
+    {
+      "value": "China",
+      "count": 421
+    },
+    {
+      "value": "Spain",
+      "count": 402
+    },
+    {
+      "value": "Romania",
+      "count": 354
+    },
+    {
+      "value": "Brazil",
+      "count": 290
+    },
+    {
+      "value": "South Korea",
+      "count": 254
+    },
+    {
+      "value": "Italy",
+      "count": 225
+    },
+    {
+      "value": "Poland",
+      "count": 206
+    },
+    {
+      "value": "Czechoslovakia",
+      "count": 185
+    },
+    {
+      "value": "Australia",
+      "count": 182
+    },
+    {
+      "value": "Portugal",
+      "count": 177
+    },
+    {
+      "value": "Netherlands",
+      "count": 175
+    },
+    {
+      "value": "Mexico",
+      "count": 173
+    },
+    {
+      "value": "Peru",
+      "count": 138
+    },
+    {
+      "value": "Sweden",
+      "count": 132
+    },
+    {
+      "value": "Denmark",
+      "count": 112
+    },
+    {
+      "value": "Argentina",
+      "count": 108
+    },
+    {
+      "value": "Taiwan",
+      "count": 102
+    },
+    {
+      "value": "Hungary",
+      "count": 96
+    },
+    {
+      "value": "India",
+      "count": 93
+    },
+    {
+      "value": "Canada|United States of America",
+      "count": 73
+    },
+    {
+      "value": "Turkey",
+      "count": 72
+    },
+    {
+      "value": "Norway",
+      "count": 67
+    },
+    {
+      "value": "Ukraine",
+      "count": 62
+    },
+    {
+      "value": "Belgium",
+      "count": 61
+    },
+    {
+      "value": "Japan|United States of America",
+      "count": 57
+    },
+    {
+      "value": "Czech Republic",
+      "count": 56
+    },
+    {
+      "value": "Finland",
+      "count": 53
+    },
+    {
+      "value": "Canada, United States of America",
+      "count": 52
+    },
+    {
+      "value": "Ireland",
+      "count": 51
+    },
+    {
+      "value": "United Kingdom|United States of America",
+      "count": 44
+    },
+    {
+      "value": "Estonia",
+      "count": 44
+    },
+    {
+      "value": "Chile",
+      "count": 38
+    },
+    {
+      "value": "Switzerland",
+      "count": 38
+    },
+    {
+      "value": "Colombia",
+      "count": 35
+    },
+    {
+      "value": "Philippines",
+      "count": 35
+    },
+    {
+      "value": "Hong Kong",
+      "count": 32
+    },
+    {
+      "value": "Latvia",
+      "count": 31
+    },
+    {
+      "value": "United States of America|Japan",
+      "count": 30
+    },
+    {
+      "value": "United Kingdom, United States of America",
+      "count": 29
+    },
+    {
+      "value": "Iran",
+      "count": 29
+    },
+    {
+      "value": "Yugoslavia",
+      "count": 29
+    },
+    {
+      "value": "Belgium|France",
+      "count": 27
+    },
+    {
+      "value": "United States of America|Canada",
+      "count": 27
+    },
+    {
+      "value": "Belgium, France",
+      "count": 24
+    },
+    {
+      "value": "Croatia",
+      "count": 23
+    },
+    {
+      "value": "East Germany",
+      "count": 23
+    },
+    {
+      "value": "Japan, United States of America",
+      "count": 22
+    },
+    {
+      "value": "Lithuania",
+      "count": 22
+    },
+    {
+      "value": "Indonesia",
+      "count": 22
+    },
+    {
+      "value": "Czechoslovakia, United States of America",
+      "count": 21
+    },
+    {
+      "value": "Israel",
+      "count": 21
+    },
+    {
+      "value": "East Germany, Germany",
+      "count": 20
+    },
+    {
+      "value": "Austria",
+      "count": 20
+    },
+    {
+      "value": "China|United States of America",
+      "count": 18
+    },
+    {
+      "value": "Malaysia",
+      "count": 18
+    },
+    {
+      "value": "Bulgaria",
+      "count": 18
+    },
+    {
+      "value": "Greece",
+      "count": 17
+    },
+    {
+      "value": "South Korea|United States of America",
+      "count": 17
+    },
+    {
+      "value": "Belgium|Canada|France",
+      "count": 16
+    },
+    {
+      "value": "Canada, France",
+      "count": 15
+    },
+    {
+      "value": "India|United States of America",
+      "count": 15
+    },
+    {
+      "value": "Australia|United States of America",
+      "count": 15
+    },
+    {
+      "value": "Thailand",
+      "count": 14
+    },
+    {
+      "value": "Slovakia",
+      "count": 14
+    },
+    {
+      "value": "Singapore",
+      "count": 14
+    },
+    {
+      "value": "France|Luxembourg",
+      "count": 14
+    },
+    {
+      "value": "Canada|France",
+      "count": 13
+    },
+    {
+      "value": "South Africa",
+      "count": 13
+    },
+    {
+      "value": "France, United States of America",
+      "count": 13
+    },
+    {
+      "value": "New Zealand",
+      "count": 13
+    },
+    {
+      "value": "France|Italy",
+      "count": 12
+    },
+    {
+      "value": "France|Belgium",
+      "count": 12
+    },
+    {
+      "value": "France|United Kingdom",
+      "count": 10
+    },
+    {
+      "value": "United States of America|United Kingdom",
+      "count": 10
+    },
+    {
+      "value": "Australia, United States of America",
+      "count": 10
+    },
+    {
+      "value": "France|Germany",
+      "count": 9
+    },
+    {
+      "value": "China, United States of America",
+      "count": 9
+    },
+    {
+      "value": "Pakistan",
+      "count": 9
+    },
+    {
+      "value": "Vietnam",
+      "count": 9
+    },
+    {
+      "value": "Iceland",
+      "count": 9
+    },
+    {
+      "value": "Belarus",
+      "count": 9
+    },
+    {
+      "value": "France, Switzerland",
+      "count": 9
+    },
+    {
+      "value": "France, Japan",
+      "count": 8
+    },
+    {
+      "value": "Belgium, France, Switzerland",
+      "count": 8
+    },
+    {
+      "value": "Mexico|United States of America",
+      "count": 7
+    },
+    {
+      "value": "Argentina|Spain",
+      "count": 7
+    },
+    {
+      "value": "Cuba",
+      "count": 7
+    },
+    {
+      "value": "Slovenia",
+      "count": 7
+    },
+    {
+      "value": "United States of America|South Korea",
+      "count": 7
+    },
+    {
+      "value": "Egypt",
+      "count": 7
+    },
+    {
+      "value": "Serbia",
+      "count": 6
+    }
+  ],
+  "Original_Language": [
+    {
+      "value": "en",
+      "count": 13521
+    },
+    {
+      "value": "ja",
+      "count": 3896
+    },
+    {
+      "value": "fr",
+      "count": 1313
+    },
+    {
+      "value": "ru",
+      "count": 1176
+    },
+    {
+      "value": "es",
+      "count": 904
+    },
+    {
+      "value": "zh",
+      "count": 539
+    },
+    {
+      "value": "de",
+      "count": 474
+    },
+    {
+      "value": "pt",
+      "count": 453
+    },
+    {
+      "value": "ro",
+      "count": 366
+    },
+    {
+      "value": "xx",
+      "count": 309
+    },
+    {
+      "value": "cs",
+      "count": 274
+    },
+    {
+      "value": "ko",
+      "count": 256
+    },
+    {
+      "value": "it",
+      "count": 241
+    },
+    {
+      "value": "pl",
+      "count": 206
+    },
+    {
+      "value": "nl",
+      "count": 159
+    },
+    {
+      "value": "sv",
+      "count": 128
+    },
+    {
+      "value": "uk",
+      "count": 125
+    },
+    {
+      "value": "hu",
+      "count": 97
+    },
+    {
+      "value": "tr",
+      "count": 93
+    },
+    {
+      "value": "da",
+      "count": 92
+    },
+    {
+      "value": "no",
+      "count": 72
+    },
+    {
+      "value": "et",
+      "count": 71
+    },
+    {
+      "value": "hi",
+      "count": 62
+    },
+    {
+      "value": "fi",
+      "count": 46
+    },
+    {
+      "value": "fa",
+      "count": 34
+    },
+    {
+      "value": "sk",
+      "count": 31
+    },
+    {
+      "value": "tl",
+      "count": 30
+    },
+    {
+      "value": "sh",
+      "count": 30
+    },
+    {
+      "value": "lv",
+      "count": 29
+    },
+    {
+      "value": "id",
+      "count": 24
+    },
+    {
+      "value": "lt",
+      "count": 23
+    },
+    {
+      "value": "hr",
+      "count": 23
+    },
+    {
+      "value": "ar",
+      "count": 22
+    },
+    {
+      "value": "th",
+      "count": 19
+    },
+    {
+      "value": "el",
+      "count": 19
+    },
+    {
+      "value": "ca",
+      "count": 18
+    },
+    {
+      "value": "he",
+      "count": 16
+    },
+    {
+      "value": "sl",
+      "count": 15
+    },
+    {
+      "value": "ms",
+      "count": 15
+    },
+    {
+      "value": "ka",
+      "count": 13
+    },
+    {
+      "value": "cn",
+      "count": 12
+    },
+    {
+      "value": "bg",
+      "count": 12
+    },
+    {
+      "value": "ur",
+      "count": 11
+    },
+    {
+      "value": "eu",
+      "count": 11
+    },
+    {
+      "value": "vi",
+      "count": 10
+    },
+    {
+      "value": "hy",
+      "count": 9
+    },
+    {
+      "value": "gl",
+      "count": 9
+    },
+    {
+      "value": "mk",
+      "count": 6
+    },
+    {
+      "value": "sr",
+      "count": 6
+    },
+    {
+      "value": "is",
+      "count": 6
+    },
+    {
+      "value": "kk",
+      "count": 5
+    },
+    {
+      "value": "ta",
+      "count": 5
+    },
+    {
+      "value": "te",
+      "count": 4
+    },
+    {
+      "value": "be",
+      "count": 4
+    },
+    {
+      "value": "az",
+      "count": 4
+    },
+    {
+      "value": "ml",
+      "count": 4
+    },
+    {
+      "value": "sq",
+      "count": 3
+    },
+    {
+      "value": "pa",
+      "count": 3
+    },
+    {
+      "value": "bn",
+      "count": 3
+    },
+    {
+      "value": "iu",
+      "count": 3
+    },
+    {
+      "value": "ga",
+      "count": 3
+    },
+    {
+      "value": "nb",
+      "count": 3
+    },
+    {
+      "value": "mi",
+      "count": 2
+    },
+    {
+      "value": "la",
+      "count": 2
+    },
+    {
+      "value": "dz",
+      "count": 1
+    },
+    {
+      "value": "cy",
+      "count": 1
+    },
+    {
+      "value": "mo",
+      "count": 1
+    },
+    {
+      "value": "af",
+      "count": 1
+    },
+    {
+      "value": "os",
+      "count": 1
+    },
+    {
+      "value": "bs",
+      "count": 1
+    },
+    {
+      "value": "zu",
+      "count": 1
+    },
+    {
+      "value": "cr",
+      "count": 1
+    },
+    {
+      "value": "ku",
+      "count": 1
+    },
+    {
+      "value": "yi",
+      "count": 1
+    },
+    {
+      "value": "si",
+      "count": 1
+    },
+    {
+      "value": "nn",
+      "count": 1
+    },
+    {
+      "value": "uz",
+      "count": 1
+    },
+    {
+      "value": "lb",
+      "count": 1
+    },
+    {
+      "value": "mg",
+      "count": 1
+    },
+    {
+      "value": "qu",
+      "count": 1
+    }
+  ],
+  "Target_Audience": [
+    {
+      "value": "Family/All Ages",
+      "count": 16397
+    },
+    {
+      "value": "Family|All Ages",
+      "count": 7686
+    },
+    {
+      "value": "Kids|Family",
+      "count": 768
+    },
+    {
+      "value": "Teens|All Ages",
+      "count": 353
+    },
+    {
+      "value": "Adults",
+      "count": 186
+    }
+  ]
+}

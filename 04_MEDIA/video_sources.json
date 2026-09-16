@@ -1,0 +1,26 @@
+[
+  {
+    "id": "youtube-search-animation-history",
+    "title": "YouTube search: animation history",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=history+of+animation",
+    "embed": false,
+    "note": "Use as a curated discovery source; do not assume a specific video is permanent."
+  },
+  {
+    "id": "youtube-search-pixar-history",
+    "title": "YouTube search: Pixar history",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Pixar+Animation+Studios+history",
+    "embed": false,
+    "note": "Curate an official/credible video before production."
+  },
+  {
+    "id": "youtube-search-toy-story-production",
+    "title": "YouTube search: Toy Story production",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Toy+Story+production+Pixar",
+    "embed": false,
+    "note": "Curate an official/credible clip before production."
+  }
+]

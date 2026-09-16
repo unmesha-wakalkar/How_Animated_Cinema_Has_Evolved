@@ -1,0 +1,58 @@
+[
+  {
+    "id": "bfi-animation-timeline",
+    "kind": "historical",
+    "title": "Animation: Timeline",
+    "publisher": "BFI",
+    "url": "https://old.bfi.org.uk/sightandsound/feature/49303",
+    "use": "Historical milestones and early animation chronology"
+  },
+  {
+    "id": "pixar-our-story",
+    "kind": "official-history",
+    "title": "Our Story",
+    "publisher": "Pixar Animation Studios",
+    "url": "https://www.pixar.com/our-story",
+    "use": "Pixar technology/industry milestones"
+  },
+  {
+    "id": "academy-toy-story",
+    "kind": "official-history",
+    "title": "Toy Story — Collection Highlights",
+    "publisher": "Academy of Motion Picture Arts and Sciences",
+    "url": "https://www.oscars.org/collection-highlights/toy-story",
+    "use": "Independent confirmation of Toy Story as first computer-animated feature and awards context"
+  },
+  {
+    "id": "tmdb-image-basics",
+    "kind": "media-documentation",
+    "title": "Image Basics",
+    "publisher": "The Movie Database",
+    "url": "https://developer.themoviedb.org/docs/image-basics",
+    "use": "Explains TMDB image URL structure used by dataset"
+  },
+  {
+    "id": "tmdb-images-api",
+    "kind": "media-documentation",
+    "title": "Movie Images API",
+    "publisher": "The Movie Database",
+    "url": "https://developer.themoviedb.org/reference/movie-images",
+    "use": "Backdrops/posters/logos reference for media exploration"
+  },
+  {
+    "id": "youtube-embed",
+    "kind": "video-embedding",
+    "title": "YouTube IFrame Player API",
+    "publisher": "Google Developers",
+    "url": "https://developers.google.com/youtube/iframe_api_reference",
+    "use": "Embed/play video inside modals without hosting files locally"
+  },
+  {
+    "id": "disney-animation-films",
+    "kind": "studio-reference",
+    "title": "Films",
+    "publisher": "Walt Disney Animation Studios",
+    "url": "https://www.disneyanimation.com/films/",
+    "use": "Studio film archive/reference"
+  }
+]
