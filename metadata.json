@@ -1,0 +1,6 @@
+{
+  "name": "From Storytelling to Industry — How Animated Cinema Evolved",
+  "description": "An interactive data story exploring how animated cinema evolved as a visual language, storytelling medium, technological craft, and global industry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-paper: #F7F2E8;
+    --text-ink: #171717;
+    --text-muted: #6B655C;
+    --red-anim: #E84D3C;
+    --blue-cine: #4F8FE8;
+    --yellow-warm: #F4C95D;
+    --lavender: #A98BE8;
+    --mint: #9FD8C1;
+  }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: #F7F2E8;
+    color: #171717;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-serif-display {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+
+  .font-editorial {
+    font-family: 'Newsreader', Georgia, serif;
+  }
+
+  .font-display {
+    font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  .font-cinzel {
+    font-family: 'Cinzel', serif;
+  }
+
+  .font-mono {
+    font-family: 'JetBrains Mono', monospace;
+  }
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-webkit-scrollbar-track {
+  background: #EFE9DC;
+}
+::-webkit-scrollbar-thumb {
+  background: #D4CBBA;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #B5AA95;
+}
+
+/* Subtle editorial paper grain overlay */
+.paper-grain {
+  background-image: radial-gradient(rgba(23, 23, 23, 0.035) 1px, transparent 0);
+  background-size: 20px 20px;
+}
+
+/* Filmstrip perforation effect */
+.filmstrip-border-y {
+  background-image: radial-gradient(#171717 2px, transparent 2px);
+  background-size: 16px 16px;
+}
+
